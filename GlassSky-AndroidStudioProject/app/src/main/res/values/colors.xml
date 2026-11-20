@@ -1,0 +1,7 @@
+<resources>
+    <color name="glass_surface_dark">#1AFFFFFF</color>
+    <color name="glass_surface_light">#A6FFFFFF</color>
+    <color name="glass_border">#33FFFFFF</color>
+    <color name="background_deep_space">#0B101E</color>
+    <color name="sky_accent_blue">#38BDF8</color>
+</resources>

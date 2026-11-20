@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Glass Sky</string>
+    <string name="brand_name">Glass Sky</string>
+    <string name="open_meteo_attribution">Weather data by Open-Meteo.com</string>
+    <string name="location_permission_rationale">Glass Sky needs location permission to display live weather for your current area. You can also search for cities manually.</string>
+    <string name="search_hint">Search cities worldwide (e.g. Tokyo, London)...</string>
+    <string name="cached_data_notice">Displaying cached weather data</string>
+    <string name="updated_just_now">Updated just now</string>
+    <string name="settings_title">Glass Sky Settings</string>
+    <string name="about_title">About Glass Sky</string>
+    <string name="about_description">Glass Sky is a minimal, premium weather application crafted with modern glassmorphism, fluid atmospheric gradients, and real-time Open-Meteo forecasts.</string>
+    <string name="version_label">Version 1.0.0</string>
+</resources>
