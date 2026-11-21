@@ -2,4 +2,4 @@
 
 A beautiful Android weather application.
 
-Designed & Developed with ❤️ by Aashu.
+Designed & Developed by Aashu.
